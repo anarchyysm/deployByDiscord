@@ -35,7 +35,7 @@ Inicie o bot executando o arquivo principal. No Discord, você pode usar o coman
 
 ```bash
 python3 bot_deploy.py
-
+```
 ---
 
 ## Licença
